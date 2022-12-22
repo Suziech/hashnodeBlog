@@ -2,7 +2,7 @@
 
 # What is Angular?
 
-*   Anuglar is a **JavaScript Framework** which allows you to create reactive **Single-Page-Applications**(SPAs)
+*   Angular is a **JavaScript Framework** which allows you to create reactive **Single-Page-Applications**(SPAs)
     
 *   The way of SPAs approach allows you to create web applications which look and feel almost like mobile applications, very fast, everything happens instantly. And if you do need some data from a server, you simply load it in the background, so that the user never leaves this experience of having a reactive web application to use. (JavaScript changes, the DOM, whatever is displayed.)
     
