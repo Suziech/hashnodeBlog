@@ -36,5 +36,3 @@ AngularJS(Angular 1) ➡️ Angular 2 ➡️ Angular 4 ➡️ Angular 11, 12, 13
     
 
 ![This is the page you will see once installed](https://cdn.hashnode.com/res/hashnode/image/upload/v1671688252951/RcOWZLVYD.png align="center")
-
-7.  Installation done!
