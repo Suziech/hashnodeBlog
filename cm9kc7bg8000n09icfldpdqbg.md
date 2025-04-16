@@ -8,7 +8,7 @@ tags: nextjs, i18next, polyfills, nextjs15, urlcanparse
 
 ---
 
-❓ The Problem
+# **❓ The Problem**
 
 While developing with Next.js 15, you might encounter this error:
 
@@ -22,7 +22,7 @@ If you are using libraries like `i18next` or `resourcesToBackend`, this function
 
 ---
 
-💡 The Solution: Add a Polyfill
+# **💡 The Solution: Add a Polyfill**
 
 Fortunately, you can fix this with a simple polyfill — a piece of code that “fills in” missing functionality.
 
@@ -45,7 +45,7 @@ This checks whether `URL.canParse` is already defined and, if not, defines a saf
 
 ---
 
-✅ Tips
+# **✅ Tips**
 
 * This polyfill works safely with Node.js 18, 20 and beyond.
     
